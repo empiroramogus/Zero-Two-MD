@@ -51,7 +51,7 @@
   
 [![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
   
-[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/empiroramogus/Zero-Two-MD)
 
 [![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
